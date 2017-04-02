@@ -1,0 +1,22 @@
+{
+  "name": "react-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.21",
+    "@types/react-dom": "^0.14.23",
+    "office-ui-fabric-react": "^2.10.5",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3"
+  }
+}
